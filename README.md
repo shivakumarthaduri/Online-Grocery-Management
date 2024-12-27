@@ -31,7 +31,7 @@ Welcome to the *Grocery Management System, a comprehensive Python-based applicat
 
 ### 1️⃣ *Clone the Repository*  
 ```bash
-git clone https://github.com/YourUsername/Grocery-Management-System.git
+git clone https://github.com/shivakumarthaduri/Online-Grocery-Management.git
 cd Grocery-Management-System
 2️⃣ Run the Application
 Ensure you have Python installed. Then, execute the script:
