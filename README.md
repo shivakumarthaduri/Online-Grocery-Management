@@ -1,4 +1,5 @@
-# 🛒 *Grocery Management System*  
+# 🛒 Grocery-Management-System
+
 
 Welcome to the *Grocery Management System, a comprehensive Python-based application designed to manage groceries efficiently! This system offers functionalities for **users* and *admins* to handle grocery items, manage carts, and track orders seamlessly.  
 
