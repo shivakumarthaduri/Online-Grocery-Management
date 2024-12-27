@@ -1,0 +1,38 @@
+[
+    {
+        "username": "rithwikburri",
+        "items": [
+            {
+                "item_id": 1026,
+                "item_name": "avocado",
+                "item_quantity": 1.0,
+                "item_price": 300.0
+            }
+        ],
+        "total_price": 300.0
+    },
+    {
+        "username": "rithwikburri",
+        "items": [
+            {
+                "item_id": 1026,
+                "item_name": "avocado",
+                "item_quantity": 1.0,
+                "item_price": 300.0
+            }
+        ],
+        "total_price": 300.0
+    },
+    {
+        "username": "rithwikburri",
+        "items": [
+            {
+                "item_id": 1021,
+                "item_name": "Turmeric",
+                "item_quantity": 0.1,
+                "item_price": 25.0
+            }
+        ],
+        "total_price": 25.0
+    }
+]
