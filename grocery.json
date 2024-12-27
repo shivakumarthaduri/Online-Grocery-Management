@@ -1,0 +1,168 @@
+{
+    "Fresh Produce": [
+        {
+            "name": "Apples",
+            "quantity": 1.0,
+            "price": 150,
+            "id": 1001
+        },
+        {
+            "name": "Bananas",
+            "quantity": 1.5,
+            "price": 60,
+            "id": 1002
+        },
+        {
+            "name": "Tomatoes",
+            "quantity": 1,
+            "price": 40,
+            "id": 1003
+        },
+        {
+            "name": "Onions",
+            "quantity": 3,
+            "price": 30,
+            "id": 1004
+        },
+        {
+            "name": "Carrots",
+            "quantity": 2,
+            "price": 50,
+            "id": 1005
+        },
+        {
+            "name": "Spinach",
+            "quantity": 1,
+            "price": 80,
+            "id": 1006
+        },
+        {
+            "id": 1026,
+            "name": "avocado",
+            "quantity": 7.0,
+            "price": 300.0
+        }
+    ],
+    "Dairy Products": [
+        {
+            "name": "Cheese",
+            "quantity": 0.5,
+            "price": 500,
+            "id": 1007
+        },
+        {
+            "name": "Butter",
+            "quantity": 0.25,
+            "price": 400,
+            "id": 1008
+        },
+        {
+            "name": "Paneer",
+            "quantity": 0.0,
+            "price": 300,
+            "id": 1009
+        },
+        {
+            "name": "Yogurt (curd)",
+            "quantity": 1,
+            "price": 100,
+            "id": 1010
+        }
+    ],
+    "Grains and Cereals": [
+        {
+            "name": "Rice (Basmati)",
+            "quantity": 4.0,
+            "price": 120,
+            "id": 1011
+        },
+        {
+            "name": "Wheat Flour",
+            "quantity": 3,
+            "price": 50,
+            "id": 1012
+        },
+        {
+            "name": "Oats",
+            "quantity": 1,
+            "price": 150,
+            "id": 1013
+        },
+        {
+            "name": "Barley",
+            "quantity": 2,
+            "price": 90,
+            "id": 1014
+        },
+        {
+            "name": "Quinoa",
+            "quantity": 0.5,
+            "price": 500,
+            "id": 1015
+        }
+    ],
+    "Nuts and Seeds": [
+        {
+            "name": "Almonds",
+            "quantity": 0.5,
+            "price": 1000,
+            "id": 1016
+        },
+        {
+            "name": "Cashews",
+            "quantity": 1,
+            "price": 800,
+            "id": 1017
+        },
+        {
+            "name": "Walnuts",
+            "quantity": 0.25,
+            "price": 1200,
+            "id": 1018
+        },
+        {
+            "name": "Pistachios",
+            "quantity": 0.5,
+            "price": 900,
+            "id": 1019
+        },
+        {
+            "name": "Flaxseeds",
+            "quantity": 1,
+            "price": 200,
+            "id": 1020
+        }
+    ],
+    "Spices": [
+        {
+            "name": "Turmeric",
+            "quantity": 0.9,
+            "price": 250,
+            "id": 1021
+        },
+        {
+            "name": "Cumin",
+            "quantity": 0.5,
+            "price": 400,
+            "id": 1022
+        },
+        {
+            "name": "Coriander",
+            "quantity": 0.5,
+            "price": 300,
+            "id": 1023
+        },
+        {
+            "name": "Black Pepper",
+            "quantity": 0.25,
+            "price": 1200,
+            "id": 1024
+        },
+        {
+            "name": "Cinnamon",
+            "quantity": 0.1,
+            "price": 1500,
+            "id": 1025
+        }
+    ]
+}

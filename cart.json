@@ -1,0 +1,23 @@
+[
+    {
+        "username": "rithwikburri",
+        "orders": []
+    },
+    {
+        "username": "shiva",
+        "orders": [
+            {
+                "type": "Spices",
+                "name": "Turmeric",
+                "quantity": 0.5,
+                "price": 125.0
+            },
+            {
+                "type": "Fresh Produce",
+                "name": "Onions",
+                "quantity": 2.0,
+                "price": 60.0
+            }
+        ]
+    }
+]
